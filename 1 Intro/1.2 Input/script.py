@@ -1,2 +1,1 @@
-i = input("Whats your name? ")
-print("Hello " + i + "!")
+print("Hello " + input("whats your name ")+ "!") # Concatenate strings with + operator
